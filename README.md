@@ -1,4 +1,4 @@
-# AySO-2doParcial-JuanPerez
+# AySO-2doParcial-FrancoVotta
 Nombre: Franco
 Apellido: Votta
 Legajo: 118022
